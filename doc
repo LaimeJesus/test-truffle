@@ -1,0 +1,14 @@
+instalar geth, en nuestro caso usaremos una red privada por lo tanto
+no vamos a actualizar esta red con la cadena de bloques global
+
+instalar truffle
+
+npm install -g truffle
+
+instalar webpack
+npm install -g webpack
+
+inicializar truffle
+truffle init webpack
+
+https://www.codeooze.com/blockchain/ethereum-geth-private-blockchain/
